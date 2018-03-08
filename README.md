@@ -1,3 +1,7 @@
-# webstorm babel ×Ô¶¯±àÒëES6´úÂë Demo
-https://github.com/WiFiUncle/blog/tree/master/babelDemo
-# Karma+Jasmine+istanbul+webpack×Ô¶¯»¯µ¥Ôª²âÊÔ 
+# webstorm babel è‡ªåŠ¨ç¼–è¯‘ES6ä»£ç  Demo
+# Karma+Jasmine+istanbul+webpackè‡ªåŠ¨åŒ–å•å…ƒæµ‹è¯• 
+
+
+# qt
+
+## qtä¹‹httpç½‘ç»œè¯·æ±‚
