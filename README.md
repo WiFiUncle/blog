@@ -5,3 +5,5 @@
 # qt
 
 ## qt之http网络请求
+
+## [阿里云centOS部署vue全家桶+node+koa2+mongo项目](https://github.com/WiFiUncle/blog/issues/1)
