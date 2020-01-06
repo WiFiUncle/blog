@@ -1,5 +1,5 @@
-# webstorm babel 自动编译ES6代码 Demo
-# Karma+Jasmine+istanbul+webpack自动化单元测试 
+# [webstorm babel 自动编译ES6代码 Demo](https://github.com/WiFiUncle/blog/tree/master/babelDemo)
+# [Karma+Jasmine+istanbul+webpack自动化单元测试 ](https://github.com/WiFiUncle/blog/tree/master/jasmine%20Demo)
 
 
 # qt
